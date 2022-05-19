@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T09:49:46.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="vdMykwJ9JP6IY9JFWn5r" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-19T10:31:48.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="E0-OkcNfkefDMqtWGOrN" version="18.0.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2119" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NZgfm-24MiILoYxENs5a-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-8" target="NZgfm-24MiILoYxENs5a-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-8" value="每个升级商品走审核流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-85" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NZgfm-24MiILoYxENs5a-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-16" target="NZgfm-24MiILoYxENs5a-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-16" value="在updateUpgradeGoods方法中找出要删除的商品、新增的商品、要价格修改的商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="100" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="117.5" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.66666666666697" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-18" value="新增和价格修改的商品走商品上架审核流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="210" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-21" target="NZgfm-24MiILoYxENs5a-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-21" value="删除的商品走下架审核流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="104" y="320" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-24" target="NZgfm-24MiILoYxENs5a-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-24" value="新增商品（&amp;nbsp;dj.api.basegoods.add）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-107.5" y="120" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-26" target="NZgfm-24MiILoYxENs5a-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-26" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-85" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-29" value="修改商品&lt;br&gt;（dj.api.basegoods.update）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="10" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-30" target="NZgfm-24MiILoYxENs5a-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-30" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="117.5" y="-40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-32" target="NZgfm-24MiILoYxENs5a-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-32" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="378.75" y="-40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-34" value="下架基础商品&lt;br&gt;（dj.smartcarlife.api.basegoods.shelfStatus.update）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="287.5" y="20" width="272.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-37" value="如果是上架操作，抛出异常，目前的逻辑不能手动上架子商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="356.25" y="110" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-41" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-40" target="NZgfm-24MiILoYxENs5a-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423.7550000000001" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-40" target="NZgfm-24MiILoYxENs5a-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-54" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NZgfm-24MiILoYxENs5a-53">
+          <mxGeometry x="0.4192" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-40" value="&lt;span style=&quot;&quot;&gt;判断基础商品状态不为审核中&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="368.13" y="210" width="111.25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-43" value="抛出异常子商品存在为审核中状态的记录，无法下架基础商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="375" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-52" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-46" target="NZgfm-24MiILoYxENs5a-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NZgfm-24MiILoYxENs5a-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-46" value="判断基础商品关联的子商品是否存在审核中状态的记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="351.41" y="367.5" width="144.69" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NZgfm-24MiILoYxENs5a-57" value="过滤得到所有已上架状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="362.38" y="490" width="117" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
