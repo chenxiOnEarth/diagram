@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T03:26:33.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Rv0egi4jcAwDP480iSD9" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T03:24:58.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="as03LIfAbkTac5zs2gg0" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Netty" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
@@ -44,6 +44,46 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pgyLf31vsVKfyvSoMUgz-1" target="pgyLf31vsVKfyvSoMUgz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pgyLf31vsVKfyvSoMUgz-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-5" value="&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;NioEventLoop.processSelectedKey,&lt;br&gt;这里会进行轮询" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-9" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-11" value="Netty读取数据流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="28" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pgyLf31vsVKfyvSoMUgz-16" target="pgyLf31vsVKfyvSoMUgz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-16" value="AbstractNioChannel.NioUnsafe#read" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="645" y="280" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-17" value="这里会去进行读取操作，根据不同的NioChannal类型，&lt;br&gt;调用不同的子类实现类方法，对于读事件调用&lt;br&gt;AbstractNioByteChannel.NioByteUnsafe#read方法，对于创建连接事件，&lt;br&gt;调用AbstractNioMessageChannel.NioMessageUnsafe#read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="280" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pgyLf31vsVKfyvSoMUgz-19" target="pgyLf31vsVKfyvSoMUgz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="DefaultMaxMessagesRecvByteBufAllocator.&lt;br&gt;MaxMessageHandle#allocate&lt;br&gt;预估读取的数据大小，将数据读取到其中" link="io.netty.channel.DefaultMaxMessagesRecvByteBufAllocator.MaxMessageHandle#allocate" id="pgyLf31vsVKfyvSoMUgz-19">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="625" y="400" width="270" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pgyLf31vsVKfyvSoMUgz-21" value="读取完成，将数据传播到pinepine中io.netty.channel.ChannelPipeline#fireChannelRead" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="627.5" y="530" width="265" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
