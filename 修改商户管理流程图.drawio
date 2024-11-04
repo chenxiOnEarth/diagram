@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aLqjdNRT8SBsfwmVXrsm-8" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="180" width="1400" height="2170" as="geometry">
+          <mxGeometry x="414" y="180" width="1400" height="2170" as="geometry">
             <mxRectangle x="540" y="160" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -198,9 +198,6 @@
         </mxCell>
         <mxCell id="aLqjdNRT8SBsfwmVXrsm-19" value="update&amp;nbsp;`scrm_account`.`platform_merchant`&amp;nbsp;set&amp;nbsp;`created_time`&amp;nbsp;=&amp;nbsp;&#39;2024-09-28&amp;nbsp;17:00:12&#39;&amp;nbsp;,&amp;nbsp;`updated_time`&amp;nbsp;=&amp;nbsp;&#39;2024-09-28&amp;nbsp;17:00:19&#39;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;where&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;`id`&amp;nbsp;=&amp;nbsp;&#39;25667&#39;;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="aLqjdNRT8SBsfwmVXrsm-9">
           <mxGeometry x="430" y="240" width="540" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="aLqjdNRT8SBsfwmVXrsm-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="aLqjdNRT8SBsfwmVXrsm-9" source="aLqjdNRT8SBsfwmVXrsm-83" target="aLqjdNRT8SBsfwmVXrsm-83">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aLqjdNRT8SBsfwmVXrsm-148" value="&lt;div&gt;update dj_car_life_division_rule_effect_record&lt;/div&gt;&lt;div&gt;set effect_start_date = &#39;2024-10-01 00:00:00&#39;, updated_date = now(), updated_by = &#39;陈希&#39; where id = ?;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="aLqjdNRT8SBsfwmVXrsm-9">
           <mxGeometry x="810" y="1505" width="570" height="40" as="geometry" />
